@@ -1,0 +1,28 @@
+#buttonstyle{
+    padding: 2vw;
+    position: absolute;
+    top:20vw;
+    left:40%;
+    background-color: black;
+    opacity: 0.5;
+    cursor: pointer;
+    color: antiquewhite;
+    font-size: 2vw;
+}
+#hextext{
+    padding: 2vw;
+    position: absolute;
+    top:13vw;
+    left:30%;
+    background-color: black;
+    opacity: 0.5;
+    cursor: pointer;
+    color: antiquewhite;
+    text-align: center;
+    font-size:3vw
+}
+#container{
+    position: relative;
+    height:50vw;
+    width: 100%;
+}
